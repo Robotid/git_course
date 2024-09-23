@@ -4,4 +4,3 @@ if greeting == "":
   greeting = "Sin Saludo"
 
 print(greeting)
-
